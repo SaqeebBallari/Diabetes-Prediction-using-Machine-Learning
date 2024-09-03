@@ -1,5 +1,4 @@
-# Diabetes-Prediction-using-Machine-Learning* ### [**Diabetes Alert: A Machine Learning-Based App:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Diabetes_Alert_A_Machine_Learning_Based_App/notebooks/Diabetes_Alert_A_Machine_Learning_Based_App.ipynb)
-
+# Diabetes-Prediction-using-Machine-Learning* ### 
 <div align="center">
 
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3xBqh5Df8qJj98VNi2GS0w.jpeg" />
